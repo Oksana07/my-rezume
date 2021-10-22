@@ -24,7 +24,7 @@ body {
 /* <!-- Main container section --> */
 
 .main-container-section {
-  padding: 100px 90px;
+  padding: 50px 80px;
 }
 
 /* <!-- About me container--> */
@@ -206,8 +206,8 @@ body {
 .contacts-section-link {
   font-size: 14px;
   line-height: 24px;
-  color: #040c3bd3;
-  opacity: 0.5;
+  color: #102dcfd3;
+  /* opacity: 0.5; */
   cursor: pointer;
 }
 
